@@ -1,6 +1,5 @@
 ﻿# Amazon Clone
 
-## Description
 ### A clone of the Amazon website for practicing web development skills.
 
 ## Technologies used :
